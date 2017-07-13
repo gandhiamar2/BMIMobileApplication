@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">In Class 2b</string>
+    <string name="weight_head">Target Weight</string>
+    <string name="bmi">BMI Ranges</string>
+    <string name="range1"><![CDATA[<18.5]]></string>
+    <string name="range2">18.5 to 24.9</string>
+    <string name="range3">25.0 to 29.9</string>
+    <string name="range4"><![CDATA[>29.9]]></string>
+    <string name="height">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="button">Calculate Weight</string>
+</resources>
